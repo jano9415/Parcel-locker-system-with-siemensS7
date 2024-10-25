@@ -4,6 +4,10 @@ const connectToModbusServer = (req, res) => {
     modbusService.connectToModbusServer(req, res);
 }
 
+const closeConnection = (req, res) => {
+    modbusService.closeConnection(req, res);
+}
+
 const writeIntoHoldingRegister = (req, res) => {
     modbusService.writeIntoHoldingRegister(req, res);
 }
@@ -25,5 +29,6 @@ module.exports = {
     readFromHoldingRegister,
     writeIntoCoil,
     readFromCoil,
-    connectToModbusServer
+    connectToModbusServer,
+    closeConnection
 };
