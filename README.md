@@ -1,4 +1,8 @@
 # Parcel-locker-system-with-siemensS7
+
+                                                        This is a parcel locker in the real life:
+![parcellockerimage3](https://github.com/jano9415/Parcel-locker/assets/87268161/b5716d3e-c958-498e-8801-ac2f5e63cf04)
+
 ![Image5](https://github.com/user-attachments/assets/044d81d7-c38f-4301-a94c-9a48e2a791cd)
 
 This is the same project as named "Parcel locker" but in this one instead of Arduino microcontroller i use a Siemens S7-1500 PLC to treat the parcel lockers like open boxes and RFID reading.
