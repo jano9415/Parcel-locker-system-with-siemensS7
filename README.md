@@ -15,6 +15,8 @@ After tapping Login button the browser sends a request to an endpoint of the Nod
 Open boxes:
 
 ![image](https://github.com/user-attachments/assets/4664acc8-5768-42a9-987c-40af6c9fd1ba)
+![Image7](https://github.com/user-attachments/assets/5faf0ee4-4297-47a9-82cf-a1a422fd1146)
+
 
 
 
