@@ -8,7 +8,7 @@ Courier logins at the parcel locker:
 
 ![image](https://github.com/user-attachments/assets/ab4d5902-16de-493f-86d5-8f36f3d47a99)
 
-After tapping Login button the browser sends a request to an endpoint of the NodeJs server. This server as a modbus client reads the holding registers from register 40002 to 40011. The result is an array that comprises ASCII numbers. The server converts this array to a string and sends to the browser as a response.
+After tapping Login button the browser sends a request to an endpoint of the NodeJs server. This server as a modbus client reads the holding registers from register 40002 to 40011. The result is an array that comprises ASCII numbers. The server converts this array to a string and sends to the angular application as a response.
 
 ![image6](https://github.com/user-attachments/assets/5f2bfef0-4300-40ae-9164-4117678d7e42)
 
