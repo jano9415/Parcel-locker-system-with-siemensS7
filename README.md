@@ -15,6 +15,8 @@ After tapping Login button the browser sends a request to an endpoint of the Nod
 Open boxes:
 
 ![image](https://github.com/user-attachments/assets/4664acc8-5768-42a9-987c-40af6c9fd1ba)
+
+After selecting a box number and tapping the Open button the browser sends a request to the NodeJs server. This server as a modbus clint writes the selected box number into holding register 40001 and the PLC opens the selected box.
 ![Image7](https://github.com/user-attachments/assets/5faf0ee4-4297-47a9-82cf-a1a422fd1146)
 
 
